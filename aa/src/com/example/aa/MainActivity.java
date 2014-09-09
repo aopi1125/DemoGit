@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 /**
-*add to test by master
+*add to test by hotfix2
 *
 **/
 public class MainActivity extends ActionBarActivity {
