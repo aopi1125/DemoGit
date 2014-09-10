@@ -13,6 +13,8 @@ import android.os.Build;
 /**
 *add to test by develop
 *add to test by hotfix2
+/**
+*add to test by feature2
 *
 **/
 public class MainActivity extends ActionBarActivity {
