@@ -1,20 +1,10 @@
 package com.example.aa;
 
-import android.support.v7.app.ActionBarActivity;
-import android.support.v7.app.ActionBar;
-import android.support.v4.app.Fragment;
-import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.view.ViewGroup;
-import android.os.Build;
 /**
 *add to test by aopi1125 in Gighut Web 20140910
 *
 **/
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends ActionBarActivity {//from local master
 	
 	//test from web
 
