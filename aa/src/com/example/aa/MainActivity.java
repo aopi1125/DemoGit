@@ -15,6 +15,8 @@ import android.os.Build;
 *
 **/
 public class MainActivity extends ActionBarActivity {
+	
+	//test from web
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
