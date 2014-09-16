@@ -17,7 +17,7 @@ import android.os.Build;
 *add to test by feature2
 *
 **/
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends ActionBarActivity {//test in develop
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
