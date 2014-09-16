@@ -14,7 +14,7 @@ import android.os.Build;
 *add to test by aopi1125 in Gighut Web 20140910
 *
 **/
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends ActionBarActivity {//from web master
 	
 	//test from web
 
